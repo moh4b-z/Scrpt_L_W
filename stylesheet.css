@@ -19,6 +19,9 @@ body, ul, li, p {
     font-size: 1.2rem;
     font-family: Arial;
 }
+a {
+    color: #ffffff;
+}
 
 main {
     padding: 10px;
@@ -28,7 +31,7 @@ main {
     display: flex;
 }
 
-.botoes div{
+#Windows div, #Linux div{
     width: 40vw;
     padding: 7px;
     margin: 7px;
